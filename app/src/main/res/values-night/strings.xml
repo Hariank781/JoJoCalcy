@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="slash">/</string>
+    <string name="x">x</string>
+    <string name="minussym">-</string>
+    <string name="brace">( )</string>
+    <string name="ac">AC</string>
+    <string name="dotsym">.</string>
+    <string name="modulus">%</string>
+    <string name="equal">=</string>
+    <string name="plussym">+</string>
+    <string name="backspacesym"><![CDATA[<-]]></string>
+</resources>
